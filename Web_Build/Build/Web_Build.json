@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Naman's SpaceShooter",
+"dataUrl": "Web_Build.data.unityweb",
+"asmCodeUrl": "Web_Build.asm.code.unityweb",
+"asmMemoryUrl": "Web_Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Web_Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
